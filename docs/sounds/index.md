@@ -10,3 +10,4 @@ Here can you find all sounds available for the specified version.
 - [MC 1.14.x](mc-1.14.md)
 - [MC 1.15.x](mc-1.15.md)
 - [MC 1.16.x](mc-1.16.md)
+- [MC 1.17.x](mc-1.17.md)
