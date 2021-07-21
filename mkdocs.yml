@@ -28,6 +28,7 @@ nav:
     - MC 1.14.x: sounds/mc-1.14.md
     - MC 1.15.x: sounds/mc-1.15.md
     - MC 1.16.x: sounds/mc-1.16.md
+    - MC 1.17.x: sounds/mc-1.17.md
 
 theme:
   name: 'material'
@@ -50,7 +51,7 @@ theme:
   # https://squidfunk.github.io/mkdocs-material/getting-started/#feature-flags
   features:
     #- instant
-    - tabs
+    - navigation.tabs
   #
   # https://squidfunk.github.io/mkdocs-material/getting-started/#icons
   icon:
