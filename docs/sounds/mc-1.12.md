@@ -1,12 +1,14 @@
 ---
-title: 'Spigot Sounds (Minecraft 1.12.x)'
+title: 'Spigot 1.12.x'
 description: 'Collection of sounds available to use with Spigot for Minecraft 1.12.x'
 ---
 
 # MC 1.12.x
 
 ## Ambience
-> Sounds that randomly play in the enviroment or during specific cases (i.e. raining)
+
+!!! info ""
+    Sounds that randomly play in the enviroment or during specific cases (i.e. raining)
 
 ```
   AMBIENT_CAVE
@@ -16,7 +18,9 @@ description: 'Collection of sounds available to use with Spigot for Minecraft 1.
 ```
 
 ## Blocks
-> Sounds that Blocks make when interacting with them
+
+!!! info ""
+    Sounds that Blocks make when interacting with them
 
 ```
   BLOCK_ANVIL_BREAK
@@ -153,7 +157,9 @@ description: 'Collection of sounds available to use with Spigot for Minecraft 1.
 ```
 
 ## Entity
-> Sounds made by entities
+
+!!! info ""
+    Sounds made by entities
 
 ```
   ENTITY_ARMORSTAND_BREAK
@@ -510,7 +516,9 @@ description: 'Collection of sounds available to use with Spigot for Minecraft 1.
 ```
 
 ## Player
-> Sounds that the player character makes
+
+!!! info ""
+    Sounds that the player character makes
 
 ```
   ENTITY_PLAYER_ATTACK_CRIT
@@ -557,7 +565,9 @@ description: 'Collection of sounds available to use with Spigot for Minecraft 1.
 ```
 
 ## Misc
-> Sounds that don't match any of the other categories
+
+!!! info ""
+    Sounds that don't match any of the other categories
 
 ```
   ENCHANT_THORNS_HIT
