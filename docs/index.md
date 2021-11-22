@@ -27,8 +27,8 @@ To help, just went over to the [GitHub Repository](https://github.com/Andre601/S
 ## Pages
 Here is a list of the current pages (And their corresponding Javadoc location)
 
-- [MC 1.8.x](sounds/mc-1.8.md) ([Javadoc](https://helpch.at/docs/1.8.8/org/bukkit/Sound.html))
-- [MC 1.9.x](sounds/mc-1.9.md) ([Javadoc](https://helpch.at/docs/1.9.4/org/bukkit/Sound.html))
+- [MC 1.8.x](sounds/mc-1.08.md) ([Javadoc](https://helpch.at/docs/1.8.8/org/bukkit/Sound.html))
+- [MC 1.9.x](sounds/mc-1.09.md) ([Javadoc](https://helpch.at/docs/1.9.4/org/bukkit/Sound.html))
 - [MC 1.10.x](sounds/mc-1.10.md) ([Javadoc](https://helpch.at/docs/1.10.2/org/bukkit/Sound.html))
 - [MC 1.11.x](sounds/mc-1.11.md) ([Javadoc](https://helpch.at/docs/1.11.2/org/bukkit/Sound.html))
 - [MC 1.12.x](sounds/mc-1.12.md) ([Javadoc](https://helpch.at/docs/1.12.2/org/bukkit/Sound.html))
