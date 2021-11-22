@@ -1,4 +1,9 @@
-# MC 1.
+---
+title: 'Spigot Sounds (Minecraft 1.9.x)'
+description: 'Collection of sounds available to use with Spigot for Minecraft 1.9.x'
+---
+
+# MC 1.9.x
 
 ## Ambience
 > Sounds that randomly play in the enviroment or during specific cases (i.e. raining)

@@ -1,3 +1,8 @@
+---
+title: 'Spigot Sounds (Minecraft 1.15.x)'
+description: 'Collection of sounds available to use with Spigot for Minecraft 1.15.x'
+---
+
 # MC 1.15.x
 
 ## Ambience
