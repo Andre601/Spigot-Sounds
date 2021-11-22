@@ -1,7 +1,14 @@
+---
+title: 'Spigot 1.8.x'
+description: 'Collection of sounds available to use with Spigot for Minecraft 1.8.x'
+---
+
 # MC 1.8.x
 
 ## Ambience
-> Sounds that randomly play in the enviroment or during specific cases (i.e. raining)
+
+!!! info ""
+    Sounds that randomly play in the enviroment or during specific cases (i.e. raining)
 
 ```
   AMBIENCE_CAVE
@@ -10,7 +17,9 @@
 ```
 
 ## Blocks
-> Sounds that Blocks make when interacting with them
+
+!!! info ""
+    Sounds that Blocks make when interacting with them
 
 ```
   ANVIL_BREAK
@@ -45,7 +54,9 @@
 ```
 
 ## Entity
-> Sounds made by entities
+
+!!! info ""
+    Sounds made by entities
 
 ```
   ARROW_HIT
@@ -182,7 +193,9 @@
 ```
 
 ## Player
-> Sounds that the player character makes
+
+!!! info ""
+    Sounds that the player character makes
 
 ```
   BURP
@@ -197,7 +210,9 @@
 ```
 
 ## Misc
-> Sounds that don't match any of the other categories
+
+!!! info ""
+    Sounds that don't match any of the other categories
 
 ```
   CLICK

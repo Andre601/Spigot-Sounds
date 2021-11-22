@@ -5,7 +5,7 @@ site_author: 'Andre_601'
 #
 # This section uses normal HTML, so normal HTML tags and specific text like &copy; are supported
 copyright: |
-  &copy; <a href="https://github.com/Andre601" target="_blank">Andre601</a>
+  &copy; <a href="https://github.com/Andre601" target="_blank" rel="nofollow">Andre601</a>
 
 docs_dir: docs/
 
@@ -14,21 +14,6 @@ docs_dir: docs/
 repo_name: Andre601/Spigot-Sounds
 repo_url: https://github.com/Andre601/Spigot-Sounds
 #edit_uri: tree/master/docs # If you want the Edit option/URL to be different.
-
-nav:
-  - Welcome: index.md
-  - Sounds:
-    - Info: sounds/index.md
-    - MC 1.8.x: sounds/mc-1.8.md
-    - MC 1.9.x: sounds/mc-1.9.md
-    - MC 1.10.x: sounds/mc-1.10.md
-    - MC 1.11.x: sounds/mc-1.11.md
-    - MC 1.12.x: sounds/mc-1.12.md
-    - MC 1.13.x: sounds/mc-1.13.md
-    - MC 1.14.x: sounds/mc-1.14.md
-    - MC 1.15.x: sounds/mc-1.15.md
-    - MC 1.16.x: sounds/mc-1.16.md
-    - MC 1.17.x: sounds/mc-1.17.md
 
 theme:
   name: 'material'
@@ -52,6 +37,9 @@ theme:
   features:
     #- instant
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
   #
   # https://squidfunk.github.io/mkdocs-material/getting-started/#icons
   icon:
@@ -73,12 +61,16 @@ extra:
   # https://squidfunk.github.io/mkdocs-material/getting-started/#adding-a-web-app-manifest
   #manifest: manifest.webmanifest
 
+plugins:
+- search
+- awesome-pages
+- pagenav-generator
+
 markdown_extensions:
   - markdown.extensions.admonition:
-  - markdown.extensions.codehilite:
-      guess_lang: false
   - markdown.extensions.toc:
       permalink: true
+  - markdown.extensions.meta:
   #
   # Uncomment the PyMdown extension you want to use.
   # Note that some might need additional settings to be added.
@@ -96,10 +88,10 @@ markdown_extensions:
   #- pymdownx.escapeall:
   #- pymdownx.extra:
   #- pymdownx.extrarawhtml:
-  #- pymdownx.highlight:
+  - pymdownx.highlight:
   #- pymdownx.inlinehilite:
   #- pymdownx.keys:
-  #- pymdownx.magiclink:
+  - pymdownx.magiclink:
   #- pymdownx.mark:
   #- pymdownx.pathconverter:
   #- pymdownx.progressbar:

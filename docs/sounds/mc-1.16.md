@@ -1,7 +1,14 @@
+---
+title: 'Spigot 1.16.x'
+description: 'Collection of sounds available to use with Spigot for Minecraft 1.16.x'
+---
+
 # MC 1.16.x
 
 ## Ambience
-> Sounds that randomly play in the enviroment or during specific cases (i.e. raining)
+
+!!! info ""
+    Sounds that randomly play in the enviroment or during specific cases (i.e. raining)
 
 ```
   AMBIENT_BASALT_DELTAS_ADDITIONS
@@ -32,7 +39,9 @@
 ```
 
 ## Blocks
-> Sounds that Blocks make when interacting with them
+
+!!! info ""
+    Sounds that Blocks make when interacting with them
 
 ```
   BLOCK_ANCIENT_DEBRIS_BREAK
@@ -355,7 +364,9 @@
 ```
 
 ## Entity
-> Sounds made by entities
+
+!!! info ""
+    Sounds made by entities
 
 ```
   ENTITY_ARMOR_STAND_BREAK
@@ -898,7 +909,9 @@
 ```
 
 ## Player
-> Sounds that the player character makes
+
+!!! info ""
+    Sounds that the player character makes
 
 ```
   ENTITY_PLAYER_ATTACK_CRIT
@@ -975,7 +988,9 @@
 ```
 
 ## Misc
-> Sounds that don't match any of the other categories
+
+!!! info ""
+    Sounds that don't match any of the other categories
 
 ```
   ENCHANT_THORNS_HIT
