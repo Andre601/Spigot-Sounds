@@ -48,8 +48,8 @@ theme:
 
 #
 # You can uncomment this line together with the line below to have additional CSS settings.
-#extra_css:
-#  - 'assets/css/extensions/tabbed.css' # Uncomment this line if you only want the CSS for tabbed
+extra_css:
+  - 'assets/css/extra.css'
 
 extra:
   #
@@ -71,6 +71,7 @@ markdown_extensions:
   - markdown.extensions.toc:
       permalink: true
   - markdown.extensions.meta:
+  - markdown.extensions.attr_list:
   #
   # Uncomment the PyMdown extension you want to use.
   # Note that some might need additional settings to be added.
@@ -84,7 +85,9 @@ markdown_extensions:
   #- pymdownx.caret:
   #- pymdownx.critic:
   #- pymdownx.details:
-  #- pymdownx.emoji:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   #- pymdownx.escapeall:
   #- pymdownx.extra:
   #- pymdownx.extrarawhtml:
