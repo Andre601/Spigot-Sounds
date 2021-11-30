@@ -38,5 +38,5 @@ Here is a list of the current pages (And their corresponding Javadoc location)
 | [MC 1.14.x](sounds/mc-1.14.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.14.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
 | [MC 1.15.x](sounds/mc-1.15.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.15.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
 | [MC 1.16.x](sounds/mc-1.16.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.16.5/org/bukkit/Sound.html){ .md-button target="_blank" }            |
-| [MC 1.17.x](sounds/mc-1.17.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html){ .md-button target="_blank" } |
+| [MC 1.17.x](sounds/mc-1.17.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.17.1/org/bukkit/Sound.html){ .md-button target="_blank" } |
 | [MC 1.18.x](sounds/mc-1.18.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html){ .md-button target="_blank" } |
