@@ -43,7 +43,7 @@ theme:
   #
   # https://squidfunk.github.io/mkdocs-material/getting-started/#icons
   icon:
-    logo: 'octicons/unmute-24'
+    logo: 'fontawesome/solid/faucet'
     repo: 'octicons/mark-github-16'
 
 #
