@@ -8,17 +8,17 @@ Each page follows the same structure to have it easier to find the sounds being 
 ## MC 1.9
 Minecraft 1.9 brought significant changes to sound names since they are now prefixed with one of the below names to "categorise" them.
 
-| Prefix    | Category                                 |
-| --------- | ---------------------------------------- |
-| `AMBIENT` | Ambient/Environmental sound              |
-| `BLOCK`   | Block sounds                             |
-| `ENCHANT` | Enchantment sounds                       |
-| `ENTITY`  | Entity sounds, including player sounds   |
-| `ITEM`    | Item sounds                              |
-| `MUSIC`   | The different in-game music              |
-| `RECORD`  | The different in-game music from records |
-| `UI`      | UI sounds (Clicking menu buttons f.e.)   |
-| `WEATHER` | Weather sounds                           |
+| Prefix                | Category                                                                                         |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| `AMBIENT`             | Ambient/Environmental sound                                                                      |
+| `BLOCK`               | Block sounds                                                                                     |
+| `ENCHANT`             | Enchantment sounds                                                                               |
+| `ENTITY`              | Entity sounds, including player sounds                                                           |
+| `ITEM`                | Item sounds                                                                                      |
+| `MUSIC`               | The different in-game music                                                                      |
+| `RECORD`/`MUSIC_DISC` | Music from the different music discs (`RECORD` for 1.0 - 1.12, `MUSIC_DISC` since 1.13 onwards). |
+| `UI`                  | UI sounds (Clicking menu buttons f.e.)                                                           |
+| `WEATHER`             | Weather sounds                                                                                   |
 
 ## Contribute
 This page takes time to keep up to date and I have to do it manually which is why I appreciate any contributions to keep the page up-to-date.  
