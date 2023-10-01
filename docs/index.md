@@ -27,7 +27,7 @@ To help, just went over to the [GitHub Repository](https://github.com/Andre601/S
 ## Pages
 Here is a list of the current pages (And their corresponding Javadoc location)
 
-|                                                                  |                                                                                                                                   |
+| Version                                                          | Javadoc                                                                                                                           |
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | [MC 1.8.x](sounds/mc-1.8.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.8.8/org/bukkit/Sound.html){ .md-button target="_blank" }             |
 | [MC 1.9.x](sounds/mc-1.9.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.9.4/org/bukkit/Sound.html){ .md-button target="_blank" }             |
