@@ -27,18 +27,19 @@ To help, just went over to the [GitHub Repository](https://github.com/Andre601/S
 ## Pages
 Here is a list of the current pages (And their corresponding Javadoc location)
 
-| Version                                                          | Javadoc                                                                                                                           |
-| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| [MC 1.8.x](sounds/mc-1.8.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.8.8/org/bukkit/Sound.html){ .md-button target="_blank" }             |
-| [MC 1.9.x](sounds/mc-1.9.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.9.4/org/bukkit/Sound.html){ .md-button target="_blank" }             |
-| [MC 1.10.x](sounds/mc-1.10.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.10.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
-| [MC 1.11.x](sounds/mc-1.11.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.11.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
-| [MC 1.12.x](sounds/mc-1.12.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.12.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
-| [MC 1.13.x](sounds/mc-1.13.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.13.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
-| [MC 1.14.x](sounds/mc-1.14.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.14.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
-| [MC 1.15.x](sounds/mc-1.15.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.15.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
-| [MC 1.16.x](sounds/mc-1.16.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.16.5/org/bukkit/Sound.html){ .md-button target="_blank" }            |
-| [MC 1.17.x](sounds/mc-1.17.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.17.1/org/bukkit/Sound.html){ .md-button target="_blank" }            |
-| [MC 1.18.x](sounds/mc-1.18.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.18/org/bukkit/Sound.html){ .md-button target="_blank" }              |
-| [MC 1.19.x](sounds/mc-1.19.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.19.1/org/bukkit/Sound.html){ .md-button target="_blank" }            |
-| [MC 1.20.x](sounds/mc-1.20.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html){ .md-button target="_blank" } |
+| Version                                                            | Javadoc                                                                                                                           |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| [MC 1.8.x](sounds/mc-1.8.md){ .md-button .md-button--primary }     | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.8.8/org/bukkit/Sound.html){ .md-button target="_blank" }             |
+| [MC 1.9.x](sounds/mc-1.9.md){ .md-button .md-button--primary }     | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.9.4/org/bukkit/Sound.html){ .md-button target="_blank" }             |
+| [MC 1.10.x](sounds/mc-1.10.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.10.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
+| [MC 1.11.x](sounds/mc-1.11.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.11.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
+| [MC 1.12.x](sounds/mc-1.12.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.12.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
+| [MC 1.13.x](sounds/mc-1.13.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.13.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
+| [MC 1.14.x](sounds/mc-1.14.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.14.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
+| [MC 1.15.x](sounds/mc-1.15.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.15.2/org/bukkit/Sound.html){ .md-button target="_blank" }            |
+| [MC 1.16.x](sounds/mc-1.16.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.16.5/org/bukkit/Sound.html){ .md-button target="_blank" }            |
+| [MC 1.17.x](sounds/mc-1.17.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.17.1/org/bukkit/Sound.html){ .md-button target="_blank" }            |
+| [MC 1.18.x](sounds/mc-1.18.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.18/org/bukkit/Sound.html){ .md-button target="_blank" }              |
+| [MC 1.19.x](sounds/mc-1.19.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://helpch.at/docs/1.19.1/org/bukkit/Sound.html){ .md-button target="_blank" }            |
+| [MC 1.20.x](sounds/mc-1.20.md){ .md-button .md-button--primary }   | [:fontawesome-brands-java: Javadoc](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html){ .md-button target="_blank" } |
+| [MC 1.20.5](sounds/mc-1.20.5.md){ .md-button .md-button--primary } | [:fontawesome-brands-java: Javadoc](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html){ .md-button target="_blank" } |
