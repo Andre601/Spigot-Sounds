@@ -47,6 +47,26 @@ extra:
     - icon: 'octicons/mark-github-16'
       link: 'https://github.com/Andre601/Spigot-Sounds'
 
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        'sounds/index.md': 'sounds/1.21.x/index.md'
+        'sounds/mc-1.8.md': 'index.md'
+        'sounds/mc-1.9.md': 'sounds/1.9.x/index.md'
+        'sounds/mc-1.10.md': 'sounds/1.10.x/index.md'
+        'sounds/mc-1.11.md': 'sounds/1.11.x/index.md'
+        'sounds/mc-1.12.md': 'sounds/1.12.x/index.md'
+        'sounds/mc-1.13.md': 'sounds/1.13.x/index.md'
+        'sounds/mc-1.14.md': 'sounds/1.14.x/index.md'
+        'sounds/mc-1.15.md': 'sounds/1.15.x/index.md'
+        'sounds/mc-1.16.md': 'sounds/1.16.x/index.md'
+        'sounds/mc-1.17.md': 'sounds/1.17.x/index.md'
+        'sounds/mc-1.18.md': 'sounds/1.18.x/index.md'
+        'sounds/mc-1.19.md': 'sounds/1.19.x/index.md'
+        'sounds/mc-1.20.md': 'sounds/1.20.x/index.md'
+        'sounds/mc-1.20.5.md': 'sounds/1.20.x/index.md'
+
 markdown_extensions:
   - markdown.extensions.md_in_html:
   - markdown.extensions.toc:
