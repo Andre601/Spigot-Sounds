@@ -2,106 +2,125 @@ site_name: Spigot Sounds
 site_description: 'A collection of all known Spigot Sound names, ranging from 1.8 up to 1.19'
 site_author: 'Andre_601'
 
-#
-# This section uses normal HTML, so normal HTML tags and specific text like &copy; are supported
 copyright: |
   &copy; <a href="https://github.com/Andre601" target="_blank" rel="nofollow">Andre601</a>
 
 docs_dir: docs/
 
-#
-# These three options are optional.
 repo_name: Andre601/Spigot-Sounds
 repo_url: https://github.com/Andre601/Spigot-Sounds
-#edit_uri: tree/master/docs # If you want the Edit option/URL to be different.
 
 theme:
   name: 'material'
-  #
-  # Uncomment the below option to use the "theme extension" option
-  # to customize certain aspects of the Material Theme.
-  #
-  #custom_dir: 'theme'
-  #
-  # https://squidfunk.github.io/mkdocs-material/getting-started/#favicon
   favicon: 'assets/img/logo.jpg'
-  #
-  # https://squidfunk.github.io/mkdocs-material/getting-started/#color-palette
   palette:
-    # Uncomment this option, if you want to use the dark theme of MkDocs-Material.
     scheme: 'slate'
-    primary: 'amber'
+    primary: 'custom'
     accent: 'yellow'
-  #
-  # https://squidfunk.github.io/mkdocs-material/getting-started/#feature-flags
   features:
-    #- instant
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
-  #
-  # https://squidfunk.github.io/mkdocs-material/getting-started/#icons
   icon:
-    logo: 'fontawesome/solid/faucet'
+    logo: 'simple/spigotmc'
     repo: 'octicons/mark-github-16'
+    admonition:
+      note: octicons/pencil-24
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
 
-#
-# You can uncomment this line together with the line below to have additional CSS settings.
 extra_css:
-  - 'assets/css/extra.css'
+  - 'assets/css/theme.css'
 
 extra:
-  #
-  # https://squidfunk.github.io/mkdocs-material/getting-started/#adding-social-links
   social:
     - icon: 'octicons/mark-github-16'
       link: 'https://github.com/Andre601/Spigot-Sounds'
-  #
-  # https://squidfunk.github.io/mkdocs-material/getting-started/#adding-a-web-app-manifest
-  #manifest: manifest.webmanifest
-
-plugins:
-- search
-- awesome-pages
-- pagenav-generator
 
 markdown_extensions:
-  - markdown.extensions.admonition:
+  - markdown.extensions.md_in_html:
   - markdown.extensions.toc:
       permalink: true
   - markdown.extensions.meta:
   - markdown.extensions.attr_list:
-  #
-  # Uncomment the PyMdown extension you want to use.
-  # Note that some might need additional settings to be added.
-  #
-  # Refer to the official documentation for more info:
-  # - https://facelessuser.github.io/pymdown-extensions/
-  #
-  #- pymdownx.arithmex:
-  #- pymdownx.b64:
-  #- pymdownx.betterem:
-  #- pymdownx.caret:
-  #- pymdownx.critic:
-  #- pymdownx.details:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  #- pymdownx.escapeall:
-  #- pymdownx.extra:
-  #- pymdownx.extrarawhtml:
   - pymdownx.highlight:
-  #- pymdownx.inlinehilite:
-  #- pymdownx.keys:
   - pymdownx.magiclink:
-  #- pymdownx.mark:
-  #- pymdownx.pathconverter:
-  #- pymdownx.progressbar:
-  #- pymdownx.smartsymbols:
-  #- pymdownx.snippets:
-  #- pymdownx.striphtml:
-  #- pymdownx.superfences:
-  #- pymdownx.tabbed: # This extension requires the 'tabbed.css' to be used.
-  #- pymdownx.tasklist:
-  #- pymdownx.tilde:
+  - pymdownx.blocks.admonition:
+      types:
+        - note
+        - abstract
+        - info
+        - tip
+        - success
+        - question
+        - warning
+        - failure
+        - danger
+        - bug
+        - example
+        - quote
+        - experimental
+
+nav:
+  - index.md
+  - Sounds:
+    - 1.21.x:
+      - sounds/1.21.x/index.md
+      - sounds/1.21.x/1.21.4.md
+      - sounds/1.21.x/1.21.2.md
+      - sounds/1.21.x/1.21.md
+    - 1.20.x:
+      - sounds/1.20.x/index.md
+      - sounds/1.20.x/1.20.5.md
+      - sounds/1.20.x/1.20.3.md
+      - sounds/1.20.x/1.20.2.md
+      - sounds/1.20.x/1.20.md
+    - 1.19.x:
+      - sounds/1.19.x/index.md
+      - sounds/1.19.x/1.19.4.md
+      - sounds/1.19.x/1.19.3.md
+      - sounds/1.19.x/1.19.md
+    - 1.18.x:
+      - sounds/1.18.x/index.md
+      - sounds/1.18.x/1.18.md
+    - 1.17.x:
+      - sounds/1.17.x/index.md
+      - sounds/1.17.x/1.17.md
+    - 1.16.x:
+      - sounds/1.16.x/index.md
+      - sounds/1.16.x/1.16.2.md
+      - sounds/1.16.x/1.16.1.md
+    - 1.15.x:
+      - sounds/1.15.x/index.md
+      - sounds/1.15.x/1.15.md
+    - 1.14.x:
+      - sounds/1.14.x/index.md
+      - sounds/1.14.x/1.14.md
+    - 1.13.x:
+      - sounds/1.13.x/index.md
+      - sounds/1.13.x/1.13.md
+    - 1.12.x:
+      - sounds/1.12.x/index.md
+      - sounds/1.12.x/1.12.md
+    - 1.11.x:
+      - sounds/1.11.x/index.md
+      - sounds/1.11.x/1.11.md
+    - 1.10.x:
+      - sounds/1.10.x/index.md
+      - sounds/1.10.x/1.10.md
+    - 1.9.x:
+      - sounds/1.9.x/index.md
+      - sounds/1.9.x/1.9.2.md
