@@ -9,6 +9,8 @@ This is an overview page listing all the pages of this major version.
 
 <div class="grid cards" markdown>
 
+- ## [1.21.6](1.21.6.md)
+- ## [1.21.7](1.21.7.md)
 - ## [1.21.5](1.21.5.md)
 - ## [1.21.4](1.21.4.md)
 - ## [1.21.2](1.21.2.md)
