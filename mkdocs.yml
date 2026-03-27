@@ -51,6 +51,7 @@ plugins:
   - search
   - redirects:
       redirect_maps:
+        # Legacy Site Links
         'sounds/index.md': 'sounds/1.21.x/index.md'
         'sounds/mc-1.8.md': 'index.md'
         'sounds/mc-1.9.md': 'sounds/1.9.x/index.md'
@@ -66,6 +67,10 @@ plugins:
         'sounds/mc-1.19.md': 'sounds/1.19.x/index.md'
         'sounds/mc-1.20.md': 'sounds/1.20.x/index.md'
         'sounds/mc-1.20.5.md': 'sounds/1.20.x/index.md'
+        # Minor versions coverd by other pages
+        'sounds/1.21.x/1.21.6.md': 'sounds/1.21.x/1.21.8.md'
+        'sounds/1.21.x/1.21.7.md': 'sounds/1.21.x/1.21.8.md'
+        'sounds/1.21.x/1.21.9.md': 'sounds/1.21.x/1.21.10.md'
 
 markdown_extensions:
   - markdown.extensions.md_in_html:
@@ -97,9 +102,14 @@ markdown_extensions:
 nav:
   - index.md
   - Sounds:
+    - 26.x:
+      - sounds/26.x/index.md
+      - sounds/26.x/26.1.md
     - 1.21.x:
       - sounds/1.21.x/index.md
-      - sounds/1.21.x/1.21.7.md
+      - sounds/1.21.x/1.21.11.md
+      - sounds/1.21.x/1.21.10.md
+      - sounds/1.21.x/1.21.8.md
       - sounds/1.21.x/1.21.6.md
       - sounds/1.21.x/1.21.5.md
       - sounds/1.21.x/1.21.4.md

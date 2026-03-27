@@ -15,6 +15,7 @@ Depending on the version can there be more than one sub-page. Should there only 
 
 <div class="grid cards" markdown>
 
+- ### [26.x](sounds/26.x/index.md)
 - ### [1.21.x](sounds/1.21.x/index.md)
 - ### [1.20.x](sounds/1.20.x/index.md)
 - ### [1.19.x](sounds/1.19.x/index.md)
