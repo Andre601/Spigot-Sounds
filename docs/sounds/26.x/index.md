@@ -9,6 +9,7 @@ This is an overview page listing all the pages of this major version.
 
 <div class="grid cards" markdown>
 
-- ## [26.1](26.1.md)
+- ## [26.2](26.2.md)
+- ## [26.1.2](26.1.2.md)
 
 </div>

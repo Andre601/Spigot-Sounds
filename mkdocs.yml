@@ -71,6 +71,8 @@ plugins:
         'sounds/1.21.x/1.21.6.md': 'sounds/1.21.x/1.21.8.md'
         'sounds/1.21.x/1.21.7.md': 'sounds/1.21.x/1.21.8.md'
         'sounds/1.21.x/1.21.9.md': 'sounds/1.21.x/1.21.10.md'
+        'sounds/26.x/26.1.1.md': 'sounds/26.x/26.1.2.md'
+        'sounds/26.x/26.1.md': 'sounds/26.x/26.1.2.md'
 
 markdown_extensions:
   - markdown.extensions.md_in_html:
@@ -104,7 +106,8 @@ nav:
   - Sounds:
     - 26.x:
       - sounds/26.x/index.md
-      - sounds/26.x/26.1.md
+      - sounds/26.x/26.2.md
+      - sounds/26.x/26.1.2.md
     - 1.21.x:
       - sounds/1.21.x/index.md
       - sounds/1.21.x/1.21.11.md
