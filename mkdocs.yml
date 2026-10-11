@@ -106,6 +106,7 @@ nav:
   - Sounds:
     - 26.x:
       - sounds/26.x/index.md
+      - sounds/26.x/26.3.md
       - sounds/26.x/26.2.md
       - sounds/26.x/26.1.2.md
     - 1.21.x:
